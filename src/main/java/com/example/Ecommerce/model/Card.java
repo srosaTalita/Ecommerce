@@ -13,10 +13,10 @@ public class Card {
     private int id;
 
     @Getter @Setter
-    private String nome;
+    private String name;
 
     @Getter @Setter
-    private String numero;
+    private String number;
     
     @Getter @Setter
     private String cvv;
